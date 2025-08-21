@@ -28,12 +28,12 @@ This tool allows you to train a regression model from image datasets and predict
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/username/cabbage-analyzer.git
+git clone https://github.com/aditpermana47949/cabbage-analyzer-machine-learning.git
 ```
 
 ### 2. Navigate to the project directory
 ```bash
-cd cabbage-analyzer
+cd cabbage-analyzer-machine-learning
 ```
 
 ### 3. Install required packages
