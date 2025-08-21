@@ -5,6 +5,11 @@ This tool allows you to train a regression model from image datasets and predict
 
 ---
 
+![Screenshot](https://github.com/aditpermana47949/cabbage-analyzer-machine-learning/blob/af7d38fc07f48cce2e6ddb1f1c619c695085861a/Screenshot%20(961).png)
+![Screenshot](https://github.com/aditpermana47949/cabbage-analyzer-machine-learning/blob/af7d38fc07f48cce2e6ddb1f1c619c695085861a/Screenshot%20(964).png)
+
+---
+
 ## Key Features
 - GUI for training and testing cabbage analysis models.
 - Training pipeline with automatic background removal and LAB color extraction.
