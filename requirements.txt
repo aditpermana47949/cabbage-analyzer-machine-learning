@@ -1,0 +1,8 @@
+dearpygui==2.0.0
+matplotlib==3.10.5
+numpy==2.3.2
+opencv_python==4.10.0.84
+pandas==2.3.2
+Pillow==11.3.0
+rembg==2.0.59
+scikit_learn==1.7.1
